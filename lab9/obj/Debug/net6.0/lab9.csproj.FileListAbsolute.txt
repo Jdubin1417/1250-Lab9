@@ -1,0 +1,15 @@
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/obj/Debug/net6.0/lab9.csproj.AssemblyReference.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/obj/Debug/net6.0/lab9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/obj/Debug/net6.0/lab9.AssemblyInfoInputs.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/obj/Debug/net6.0/lab9.AssemblyInfo.cs
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/obj/Debug/net6.0/lab9.csproj.CoreCompileInputs.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/bin/Debug/net6.0/lab9
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/bin/Debug/net6.0/lab9.deps.json
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/bin/Debug/net6.0/lab9.runtimeconfig.json
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/bin/Debug/net6.0/lab9.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/bin/Debug/net6.0/lab9.pdb
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/obj/Debug/net6.0/lab9.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/obj/Debug/net6.0/refint/lab9.dll
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/obj/Debug/net6.0/lab9.pdb
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/obj/Debug/net6.0/lab9.genruntimeconfig.cache
+/Users/justindubin/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/Documents/ETSU/CSCI-1250-001/lab9/obj/Debug/net6.0/ref/lab9.dll
